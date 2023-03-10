@@ -4,9 +4,9 @@
     I try to explore CSS and it's core strength.
 
 # Job Application Form
-    This Website is purely made on css without using any framework. Website is responsive for all devices. In this i make a Job Application Form which can take information from the user.
-
-
+    This Website is purely made on css without using any framework.
+    Website is responsive for all devices.
+    In this i make a Job Application Form which can take information from the user.
 
 ## 🛠 Skills
 HTML, CSS...
